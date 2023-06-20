@@ -1,0 +1,9 @@
+/**
+ * @param string str
+ *
+ * @return string
+ */
+function function_example(str)
+{
+    return "";
+}

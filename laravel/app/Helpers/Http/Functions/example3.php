@@ -6,7 +6,7 @@ if( !function_exists('function_example') ) {
      *
      * @return string
      */
-    function function_example($collect, $exists): string
+    function function_example(string $str): string
     {
         return "";
     }
