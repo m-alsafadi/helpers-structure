@@ -1,0 +1,9 @@
+/.idea/.gitignore
+/php/app/Helpers/Classes/Example.php
+/php/app/Helpers/resources/Example.php
+/php/app/Helpers/Http/Classes/Example.php
+/php/Helpers/Http/Classes/Example.php
+/php/Helpers/Classes/Example.php
+/php/Helpers/resources/Example.php
+/laravel/app/Helpers/Http/Classes/Example.php
+/laravel/app/Helpers/resources/Example.php
