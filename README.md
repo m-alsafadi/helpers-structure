@@ -1,3 +1,3 @@
 # Dafa Helpers Structure
 
-### [PHP](tree/main/php)
+### [PHP](https://github.com/m-alsafadi/helpers-structure/tree/main/php)
